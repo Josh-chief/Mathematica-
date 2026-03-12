@@ -1,0 +1,60 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      1589,         52]
+NotebookOptionsPosition[      1026,         35]
+NotebookOutlinePosition[      1453,         52]
+CellTagsIndexPosition[      1410,         49]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[" "], "Input",
+ CellChangeTimes->{
+  3.982082055845669*^9},ExpressionUUID->"fea6d41b-849f-e24f-be6c-\
+c3f7d940dd82"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.9820820998196583`*^9, 3.982082250485037*^9}, 
+   3.9823127116753616`*^9},ExpressionUUID->"bcee2b02-c25d-f943-b59b-\
+88db886d2e06"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.982312714047241*^9, 
+  3.9823127223874474`*^9}},ExpressionUUID->"fe0a054b-1bf7-8341-bcb3-\
+bfb2e1b6a41a"]
+},
+WindowSize->{810, 1371.75},
+WindowMargins->{{Automatic, -816}, {-270.75, Automatic}},
+LightDark->"Dark",
+FrontEndVersion->"14.3 for Microsoft Windows (64-bit) (July 8, 2025)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"3c6d04bf-a1d6-f447-b45f-714a339dc62a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[554, 20, 129, 3, 28, "Input",ExpressionUUID->"fea6d41b-849f-e24f-be6c-c3f7d940dd82"],
+Cell[686, 25, 179, 3, 28, "Input",ExpressionUUID->"bcee2b02-c25d-f943-b59b-88db886d2e06"],
+Cell[868, 30, 154, 3, 28, "Input",ExpressionUUID->"fe0a054b-1bf7-8341-bcb3-bfb2e1b6a41a"]
+}
+]
+*)
+
